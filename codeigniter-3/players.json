@@ -1,0 +1,22 @@
+{
+	"Players": [
+		{
+			"Name": "vatsa",
+			"Age": 29,
+			"Location": {
+				"City": "halifax",
+				"Province": "TasN",
+				"Country": "IasN"
+			}
+		},
+		{
+			"Name": "bala",
+			"Age": 29,
+			"Location": {
+				"City": "halifax",
+				"Province": "TasN",
+				"Country": "IasN"
+			}
+		}
+	]
+}
